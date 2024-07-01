@@ -1,0 +1,36 @@
+{
+  "name": "advanced-registerbot-discord",
+  "version": "1.0.0",
+  "description": "Discord sunucunuz için register botu.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takachidot/advanced-registerbot-discord.git"
+  },
+  "keywords": [
+    "Takachi",
+    "Yahya",
+    "Register",
+    "Discord",
+    "Register"
+  ],
+  "author": "Yahya",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/takachidot/advanced-registerbot-discord/issues"
+  },
+  "homepage": "https://github.com/takachidot/advanced-registerbot-discord#readme",
+  "dependencies": {
+    "@vlodia/logger": "^0.9.11",
+    "axios": "^1.7.2",
+    "discord.js": "^14.15.3",
+    "discord.js-selfbot-v13": "^3.1.4",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.4.4",
+    "path": "^0.12.7",
+    "vlodia": "^0.9.22"
+  }
+}
