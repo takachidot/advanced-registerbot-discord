@@ -14,7 +14,7 @@ Son olarak terminali açıp `npm run start` komutuyla botu çalıştırıyoruz.
 
 ## Lisans
 
-Bu proje Apache-v2.0 Lisansı altında lisanslanmıştır. For Detaylı bilgiler için, [LICENSE](https://github.com/takachidot/advanced-registerbot-discord/blob/main/LICENSE) dosyasına göz atın.
+Bu proje Apache-v2.0 Lisansı altında lisanslanmıştır. Detaylı bilgiler için, [LICENSE](https://github.com/takachidot/advanced-registerbot-discord/blob/main/LICENSE) dosyasına göz atın.
 
 ## İletişim
 
