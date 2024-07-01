@@ -8,7 +8,7 @@ veya
 yarn
 ```
 
-Sonradan `src/config` konumuna gelip json dosyalarında gerekli bilgileri dolduruoyruz (Genders.json'a dokunmayın.);
+Sonradan `src/config` konumuna gelip json dosyalarında gerekli bilgileri dolduruyoruz (Genders.json'a dokunmayın.);
 
 Son olarak terminali açıp `npm run start` komutuyla botu çalıştırıyoruz.
 
